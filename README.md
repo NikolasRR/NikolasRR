@@ -4,7 +4,7 @@ ___
 
 ## Sobre
 
-Desenvolverdor Web Full Stack & estudante de engenharia mecânica
+Desenvolverdor Web Full Stack & estudante de engenharia mecânica.
 Descobri uma paixão por programação durante a faculdade e comecei a estudar programação por conta própria.
 Nove meses atrás entrei pra a Driven Education e comecei um novo capítulo na minha vida.
 

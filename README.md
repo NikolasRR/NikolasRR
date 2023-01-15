@@ -20,7 +20,7 @@ ___
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original](https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg)" width="40" height="40"/>
+    <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </div><br/>
 
 <div>

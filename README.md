@@ -4,10 +4,9 @@ ___
 
 ## Sobre
 
-Desenvolverdor Web Full Stack & estudante de engenharia mecânica.
+Desenvolverdor Web Full Stack.
 Descobri uma paixão por programação durante a faculdade e comecei a estudar programação por conta própria.
-Nove meses atrás entrei pra a Driven Education e comecei um novo capítulo na minha vida.
-
+Formado no custo de Desenvolvimento Web Full Stack da Driven Education, atualmente trabalhando como desenvolvedor freelancer.
 ___
 ## Tecnologias
 
@@ -24,6 +23,7 @@ ___
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" width="40" height="40"/>
     <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="40" height="40"/>
+    <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react-native/react-native.svg" width="40" height="40"/>
   </div><br/>
 
 <div>

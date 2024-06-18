@@ -1,14 +1,12 @@
-### Olá, sou o Nikolas e bem-vindo ao meu Github 👋 <a href = "mailto:nkls99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/NikolasRR/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Hellot there, I'm Nikolas and welcome to my Github 👋 <a href = "mailto:nkls99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/NikolasRR/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ___
 
-## Sobre
+## About
 
-Desenvolverdor Web Full Stack.
-Descobri uma paixão por programação durante a faculdade e comecei a estudar programação por conta própria.
-Formado no custo de Desenvolvimento Web Full Stack da Driven Education, atualmente trabalhando como desenvolvedor freelancer.
+I'm a brasilean web full stack developer and a mechanical engineering student. I am currently working as a researcher for Ford Motor Company.
 ___
-## Tecnologias
+## Technologies
 
 <div style="display: inline_block"><br>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -24,6 +22,18 @@ ___
     <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" width="40" height="40"/>
     <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="40" height="40"/>
     <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react-native/react-native.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+          
+          
   </div><br/>
 
 <div>

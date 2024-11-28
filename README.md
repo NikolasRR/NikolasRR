@@ -4,7 +4,7 @@ ___
 
 ## About
 
-I'm a brasilian web full stack developer and a mechanical engineering student. I am currently working as a researcher for Ford Motor Company.
+I'm a brazilian mechanical engineering student with a passion for programming. I am currently working as a researcher for Ford Motor Company.
 ___
 ## Technologies
 
